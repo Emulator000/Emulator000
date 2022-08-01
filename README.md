@@ -18,7 +18,8 @@
 ---
 
 - 🔭 Currently learning Algorithms and Data structures
-- 📄 Enthusiast with Rust language
+- ✅ Obsessed by clean code and design patterns
+- 📄 Enthusiast Rust language developer
 - 💬 Ask me about algorithms, performance, modern languages, bot, chat systems, networks, coding
 - ⚡ Fun fact: Why the name "Emulator"? I started with a very old computer in 00s and the first software that I installed and then edited is the PSX emulator 😊
 
