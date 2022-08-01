@@ -15,11 +15,6 @@
     </a>
 </p>
 
-&nbsp;
-&nbsp;
-
-My main used languages are Rust, C++ and PHP and I love to create smart and efficient software with a focus on backend development.
-
 ---
 
 - 🔭 Currently learning Algorithms and Data structures
