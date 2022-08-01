@@ -15,6 +15,9 @@
     </a>
 </p>
 
+&nbsp;
+&nbsp;
+
 My main used languages are Rust, C++ and PHP and I love to create smart and efficient software with a focus on backend development.
 
 ---
@@ -23,6 +26,9 @@ My main used languages are Rust, C++ and PHP and I love to create smart and effi
 - 📄 Enthusiast with Rust language
 - 💬 Ask me about algorithms, performance, modern languages, bot, chat systems, networks, coding
 - ⚡ Fun fact: Why the name "Emulator"? I started with a very old computer in 00s and the first software that I installed and then edited is the PSX emulator 😊
+
+&nbsp;
+&nbsp;
 
 <h2 align="center">💻 Main known and used technologies</h2>
 
@@ -76,7 +82,8 @@ My main used languages are Rust, C++ and PHP and I love to create smart and effi
     <a href="https://opencv.org/" target="_blank">OpenCV</a>
 </p>
 
-<h1 align="center"></h1>
+&nbsp;
+&nbsp;
 
 <h2 align="center">👨‍💻 Learning</h2>
 
@@ -86,7 +93,10 @@ My main used languages are Rust, C++ and PHP and I love to create smart and effi
     <a href="https://en.wikipedia.org/wiki/Dynamic_programming" target="_blank">Dynamic Programming</a>
 </p>
 
-<h1 align="center"></h1>
+&nbsp;
+&nbsp;
+
+<h2 align="center">📈 Stats</h2>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emulator000&theme=nord_bright" alt="Emulator000" />
