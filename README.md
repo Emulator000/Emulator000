@@ -31,6 +31,8 @@
 <p align="center">
     <a href="https://www.rust-lang.org" target="_blank">Rust</a>
     &bull;
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a>
+    &bull;
     <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank">PHP</a>
     &bull;
     <a href="https://elm-lang.org/" target="_blank">Elm</a>
