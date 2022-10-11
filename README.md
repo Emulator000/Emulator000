@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dario (Emulator) 👨‍💻🎮</h1>
-<h3 align="center">Passionate Software Engineer | Algorithms and Data structures learner | Electronic Music Producer | Occasional Gamer</h3>
+<h3 align="center">Passionate Software Engineer | Electronic Music Producer | Occasional Gamer</h3>
 <p align="center">
     <a href="https://leetcode.com/Emulator000/"><b>LeetCode</b></a>
     &bull;
