@@ -83,17 +83,6 @@
 &nbsp;
 &nbsp;
 
-<h2 align="center">👨‍💻 Learning</h2>
-
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">Algorithms</a> &amp; <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">Data Structures</a>
-    &bull;
-    <a href="https://en.wikipedia.org/wiki/Dynamic_programming" target="_blank">Dynamic Programming</a>
-</p>
-
-&nbsp;
-&nbsp;
-
 <h2 align="center">📈 Stats</h2>
 
 <p align="center">
