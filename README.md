@@ -17,9 +17,9 @@
 
 ---
 
-- 🔭 Currently improving Algorithms and Data Structures
+- 🧠 Currently studying and experimenting with AI (Neural Networks, Deep Learning, Machine Learning, Natural Language Processing, etc.)
+- 🦀 Enthusiast Rust developer
 - ✅ Obsessed by Clean Code and Design Patterns
-- 📄 Enthusiast Rust developer
 - 💬 Ask me about algorithms, performance, modern languages, bot, chat systems, networks, coding
 - ⚡ Fun fact: Why the name "Emulator"? I started with a very old computer in 00s and the first software that I installed and then edited is the PSX emulator 😊
 
@@ -33,7 +33,19 @@
     &bull;
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a>
     &bull;
-    <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank">PHP</a>
+    <a href="https://pytorch.org/" target="_blank">PyTorch</a>
+    &bull;
+    <a href="https://en.wikipedia.org/wiki/GPT-2" target="_blank">GPT-2</a>
+    &bull;
+    <a href="https://stability.ai/stable-diffusion" target="_blank">Stable Diffusion</a>
+    &bull;
+    <a href="https://github.com/huggingface/transformers" target="_blank">Transformers</a>
+    &bull;
+    <a href="https://openai.com/" target="_blank">OpenAI</a>
+    &bull;
+    <a href="https://www.linux.org/" target="_blank">Linux</a>
+    &bull;
+    <a href="https://ebpf.io/" target="_blank">eBPF</a>
     &bull;
     <a href="https://elm-lang.org/" target="_blank">Elm</a>
     &bull;
@@ -42,6 +54,8 @@
     <a href="https://sass-lang.com/" target="_blank">Sass</a>
     &bull;
     <a href="https://it.reactjs.org/" target="_blank">React</a>
+    &bull;
+    <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank">PHP</a>
     &bull;
     <a href="https://graphql.org" target="_blank">GraphQL</a>
     &bull;
@@ -54,8 +68,6 @@
     <a href="https://redis.io" target="_blank">Redis</a>
     &bull;
     <a href="https://www.android.com/intl/it_it/" target="_blank">Android</a>
-    &bull;
-    <a href="https://www.linux.org/" target="_blank">Linux</a>
     &bull;
     <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
     &bull;
